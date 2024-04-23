@@ -1,2 +1,4 @@
 # AthletesMachineLearningProject
- This project uses data from the athletic directory at GCU to analyze and see driving factors for some fo the most improtant features on our atheltes. Thge purpose is to understadn what is creating great players and try to replicate this or focus the training to enhance players performance
+
+This project leverages data from athletes at Grand Canyon University to identify and analyze key variables that significantly impact essential athlete attributes. The primary goal is to compile a comprehensive list of these variables, highlighting their weight in influencing the target feature.
+
